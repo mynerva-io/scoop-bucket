@@ -1,0 +1,20 @@
+{
+    "version": "0.0.1",
+    "architecture": {
+        "32bit": {
+            "url": "https://github.com/mynerva-io/author-cli/releases/download/v0.0.1/mynerva-author_0.0.1_Windows_i386.tar.gz",
+            "bin": [
+                "mynerva-author.exe"
+            ],
+            "hash": "c419c384f173de5e161cd18fbaad23a43f38af9f66377dfd42bbcb6e5f436e2d"
+        },
+        "64bit": {
+            "url": "https://github.com/mynerva-io/author-cli/releases/download/v0.0.1/mynerva-author_0.0.1_Windows_x86_64.tar.gz",
+            "bin": [
+                "mynerva-author.exe"
+            ],
+            "hash": "9f6feb3d43cf6287c0cd6757ba079f2af8696659cb78c3b40ee7bbd5528cf5da"
+        }
+    },
+    "homepage": "https://mynerva.io/"
+}
